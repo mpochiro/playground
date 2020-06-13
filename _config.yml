@@ -1,1 +1,13 @@
-remote_theme: volny/creative-theme-jekyll/
+remote_theme: volny/creative-theme-jekyll
+# Site settings
+title: mikes site
+email: 
+description: > stuf and things
+baseurl: "playground" # the subpath of your site, e.g. /blog/
+url: "mpochiro.github.io" # the base hostname & protocol for your site
+
+twitter_username:
+github_username: mpochiro
+
+# Build settings
+markdown: kramdown
